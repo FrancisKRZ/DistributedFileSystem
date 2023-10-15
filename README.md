@@ -204,7 +204,6 @@ References & Resources used:
         https://www.geeksforgeeks.org/python-divide-string-into-equal-k-chunks/
 
 
-    Please have mercy... :'(
                         __
                      -=(o '.
                         '.-.\
